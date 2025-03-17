@@ -1,2 +1,7 @@
-# IS211_Assignment7
-IS211_Assignment7
+<<<<<<< HEAD
+[Your changes]
+=======
+[Changes from the remote repository]
+>>>>>>> [commit hash]
+
+
